@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TalkRob</string>
+    <string name="Title">tile</string>
+    <string name="BtnSend">Send</string>
+</resources>
